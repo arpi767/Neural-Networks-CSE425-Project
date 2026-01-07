@@ -1,1 +1,2 @@
 # Neural-Networks-CSE425-Project
+The 3 files have been created here for Easy, Medium and Hard tasks. Each file has the .py file, Latent visualizations(graphs) and the results.csv file. I have used a dataset from huggingface. Since Huggingface has collaboration with google colab, I have used directly. Again, I have also upload the downloaded version of my dataset on google drive. The both links are available on "Dataset" field.
